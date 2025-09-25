@@ -1,0 +1,9 @@
+{
+	"name": "nycpipelineworldfactroy",
+	"location": "westus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "12e88434-ec58-4186-8755-6eb24f51fe34",
+		"tenantId": "f958e84a-92b8-439f-a62d-4f45996b6d07"
+	}
+}
